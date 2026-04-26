@@ -1,3 +1,11 @@
 selector {
     propiedad: valor;
 }
+
+p {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    color: #ef1515;
+    line-height: 18px;
+    margin-bottom: 20px;
+}
