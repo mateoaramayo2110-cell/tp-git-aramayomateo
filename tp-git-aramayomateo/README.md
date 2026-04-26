@@ -4,3 +4,4 @@ Es la primera vez que uso Git y GitHub con la terminal de windows, anteriormente
 
 Estos son cambios para el commit.
 
+Edición desde GitHub.
